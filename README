@@ -1,0 +1,6 @@
+Patches the booking page of Meva Salut to allow users to book a doctor
+appointment:
+
+  https://citasalut.gencat.cat/
+
+Install Tamperscript in Chrome/Chromium and add the script.
